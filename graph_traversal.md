@@ -1,2 +1,0 @@
-# BFS and DFS
-Breadth-first search (BFS) explores a graph level by level using a queue. It finds the shortest path in an unweighted graph. Depth-first search (DFS) goes as deep as possible along each branch before backtracking, using recursion or an explicit stack. Both run in O(V + E) time where V is the number of vertices and E is the number of edges. BFS is used for shortest paths and level-order traversal, while DFS is used for cycle detection, topological sorting, and finding connected components.
