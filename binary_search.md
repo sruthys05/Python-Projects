@@ -1,2 +1,0 @@
-# Binary Search
-Binary search finds a target value in a sorted array by repeatedly halving the search range. Compare the target with the middle element: if equal, return the index; if the target is smaller, search the left half; otherwise search the right half. The time complexity is O(log n) and the extra space is O(1) for the iterative version. The array must be sorted. A common bug is computing the midpoint as (low + high) / 2, which can overflow in some languages; use low + (high - low) / 2 instead.
