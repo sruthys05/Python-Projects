@@ -1,0 +1,2 @@
+# Hash Maps and URL Shorteners
+A hash map stores key-value pairs and uses a hash function to map each key to a bucket index. Average lookup, insert, and delete are O(1). Collisions happen when two keys map to the same bucket and are handled by chaining or open addressing. A URL shortener can assign each long URL an incrementing integer id and convert that id to base62 to produce a short code. Storing the code-to-URL mapping in a hash map allows O(1) redirects. Adding an LRU cache in front of the database speeds up repeated lookups for popular links.
