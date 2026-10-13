@@ -1,0 +1,10 @@
+text,category
+"I was charged twice for my monthly invoice",billing
+"Please issue a refund for this payment",billing
+"The invoice total is incorrect",billing
+"The application crashes when I open settings",technical
+"Login returns an error and fails every time",technical
+"A bug causes the dashboard to appear broken",technical
+"I cannot reset my account password",account
+"Please restore access to my user profile",account
+"My account details need to be updated",account
