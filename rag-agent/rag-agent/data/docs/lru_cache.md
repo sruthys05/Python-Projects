@@ -1,0 +1,2 @@
+# LRU Cache
+An LRU (Least Recently Used) cache evicts the entry that has not been used for the longest time when it reaches capacity. The standard implementation combines a hash map with a doubly linked list. The hash map gives O(1) lookup of a key to its node, and the doubly linked list keeps nodes ordered by recency. On every get or put, the node is moved to the front of the list. When capacity is exceeded, the node at the tail is removed, which is the least recently used entry. Both get and put run in O(1) time.
