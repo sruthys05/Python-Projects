@@ -1,0 +1,6 @@
+Meena Lakshmi
+meena.l@example.com
+
+5+ years of experience in backend engineering.
+Skills: Python3, Django, Flask, MySQL, PostgreSQL, SQL, Docker, K8s, Git, Linux,
+Redis, Celery, REST APIs, pytest, AWS, pandas

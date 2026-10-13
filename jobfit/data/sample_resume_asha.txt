@@ -1,0 +1,7 @@
+Asha Raman
+asha.raman@example.com
+
+Summary: Backend developer with 3 years of experience.
+Skills: Python, Django Rest Framework, MySQL, SQL, Git, Linux, Regular Expressions, HTML, CSS
+Built RESTful APIs for an e-commerce platform and wrote unittest suites.
+Deployed services on AWS (Amazon Web Services).

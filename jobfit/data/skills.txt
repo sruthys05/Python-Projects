@@ -1,0 +1,28 @@
+# canonical: alias1, alias2
+python: python3
+django: django rest framework, drf
+flask:
+mysql: mariadb
+postgresql: postgres
+sql:
+regex: regular expressions, regexp
+git: github
+docker:
+kubernetes: k8s
+aws: amazon web services
+rest api: restful api, rest apis, restful apis
+javascript: js
+react: reactjs
+html:
+css:
+linux:
+pandas:
+numpy:
+machine learning: ml
+unit testing: pytest, unittest
+c++:
+c#:
+java:
+redis:
+celery:
+data structures: algorithms

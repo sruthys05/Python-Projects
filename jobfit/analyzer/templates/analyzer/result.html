@@ -1,0 +1,11 @@
+{% extends "analyzer/base.html" %}
+{% block content %}
+<h2>{{ a.candidate_name }} &rarr; {{ a.job.title }}</h2>
+<h3>{{ a.score }}% &mdash; {{ a.verdict }}</h3>
+<p><b>Matched required:</b> {% for s in a.matched_required_list %}<span class="tag ok">{{ s }}</span>{% empty %}-{% endfor %}</p>
+<p><b>Missing required:</b> {% for s in a.missing_required_list %}<span class="tag bad">{{ s }}</span>{% empty %}-{% endfor %}</p>
+<p><b>Matched preferred:</b> {% for s in a.matched_preferred_list %}<span class="tag ok">{{ s }}</span>{% empty %}-{% endfor %}</p>
+<p><b>Missing preferred:</b> {% for s in a.missing_preferred_list %}<span class="tag bad">{{ s }}</span>{% empty %}-{% endfor %}</p>
+<p><b>Extra skills:</b> {% for s in a.extra_skills_list %}<span class="tag extra">{{ s }}</span>{% empty %}-{% endfor %}</p>
+<p><a href="{% url 'leaderboard' a.job.id %}">View ranking for this job</a></p>
+{% endblock %}

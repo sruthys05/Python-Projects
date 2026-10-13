@@ -1,0 +1,13 @@
+Job Title: Python Backend Developer
+
+Requirements:
+- 2+ years of experience with Python and Django
+- Strong knowledge of MySQL and SQL
+- Experience building REST APIs
+- Git and Linux basics
+- Docker for deployment
+
+Nice to have:
+- Redis or Celery
+- AWS
+- Unit testing with pytest

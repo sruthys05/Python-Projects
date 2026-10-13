@@ -1,0 +1,49 @@
+Ramya S
+Bengaluru, India | +91-7708920824 | ramya.saravanan05@gmail.com
+LinkedIn: linkedin.com/in/ramya-s8 | GitHub: github.com/ramyas05
+CAREER OBJECTIVE
+Design and implement secure Java 17 and Spring Boot microservices to support scalable business applications.
+Optimize SQL Server data models and queries using clean code practices and unit testing for reliable solutions.
+EDUCATION
+B.SC in computer Science Aug 2022 – May 2026
+SVN  College, Madurai | GPA: 8.0/10
+Class XII Jun 2021 – Mar 2022
+M.N.U Jayaraj Annapackiam Matric. Hr. Sec. School, Madurai | Scored: 79.5%
+TECHNICAL SKILLS
+Programming: Java (8 & 17)
+Backend: Spring Boot, REST APIs, Microservices
+Database: SQL Server, MySQL
+Testing: JUnit, Integration Testing
+Tools: Maven, Git, Docker
+Development Concepts: Clean Code, Authentication, Authorization, Query Optimization
+PROJECTS
+Multi-Threaded HTTP Caching Proxy & In-Memory Store
+Tech Stack: Core Java, Java Networking APIs, Multithreading, ConcurrentHashMap, Object-Oriented Design
+• Designed an asynchronous Java HTTP proxy to handle concurrent client requests and improve throughput.
+• Implemented a thread-safe, TTL-based ConcurrentHashMap cache to optimize data retrieval latency.
+• Developed clean-code backend components with robust exception handling to ensure service stability.
+Project Milestone & Workflow State Tracking API
+Tech Stack: Java 17, Spring Boot, REST APIs, SQL Server, JUnit, Maven, Git, Clean Code
+• Designed modular REST APIs using Java 17 and Spring Boot to track workflow states in scalable applications.
+• Implemented optimized SQL Server queries to handle complex transactional workloads and improve performance.
+• Created automated JUnit tests to ensure stable, regression-free microservices and high code quality.
+RetailScale: Interactive Product Catalog & Inventory Engine
+Tech Stack: Java 17, Spring Boot, Spring Security, REST APIs, SQL Server, Spring Data JPA, React.js, Maven, Git
+• Developed Spring Boot REST APIs for product search and order management to streamline user workflows.
+• Implemented Spring Security authentication and authorization to protect sensitive data and enforce access.
+• Optimized SQL Server queries for inventory filtering and cart transactions to minimize latency.
+INTERNSHIP EXPERIENCE
+Software Engineering Job Simulation | Hewlett Packard Enterprise (Forage) Jun 2026 – Jun 2026
+• Developed modular REST APIs using Java, Spring Boot, and JUnit to ensure reliable backend service delivery.
+• Implemented enterprise clean-code guidelines using design patterns to optimize pipelines and code quality.
+Advanced Software Engineering Job Simulation | Walmart USA (Forage) Aug 2025 – Aug 2025
+• Created custom Java data structures and algorithms to optimize data processing latency and efficiency.
+• Utilized design patterns and memory management techniques to build performant, enterprise-grade services.
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner — Amazon Web Services (Cloud Architecture, S3, IAM, Core Cloud Services)
+• Network Essentials — Cisco / TN Skills (Network Protocols, IP Addressing, Security Fundamentals)
+• Java Foundations — Oracle MyLearn (Object-Oriented Programming, Control Structures, Core Java APIs)
+ADDITIONAL INFORMATION
+• Languages: English, Tamil, Telugu
+• Solves data structures, algorithms, and complex debugging problems on HackerRank and LeetCode.
+• Leverages AI-assisted development tools to accelerate software creation, debugging, and productivity

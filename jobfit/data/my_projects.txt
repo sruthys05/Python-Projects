@@ -1,0 +1,17 @@
+AI Ticket Triage & Routing System | GitHub | Aug 2026
+Tech Stack: Python, FastAPI, Scikit-learn, SQLite, REST APIs, Pytest
+- Built a FastAPI ticket triage service that classifies ticket category and priority using machine learning.
+- Integrated a Scikit-learn model with a keyword-based fallback to keep predictions reliable and fault tolerant.
+- Developed SQLite-backed REST APIs with pagination, API documentation, and Pytest testing.
+
+URL Shortener | GitHub | Sept 2026
+Tech Stack: Python, HashMap, Doubly Linked List, LRU Cache, OOP
+- Built a URL shortener using hash maps and base conversion for scalable short-link generation.
+- Enabled O(1) short-to-long URL lookups with usage tracking.
+- Implemented an LRU cache using a doubly linked list and dictionary to optimize repeated lookups.
+
+GFG Article Scraper & Serializer | GitHub | June 2026
+Tech Stack: Python, Requests, BeautifulSoup, FPDF
+- Developed a Python web scraper using Requests and BeautifulSoup to extract article content.
+- Converted scraped content into portable PDFs using FPDF, enabling offline reading and archiving.
+- Automated article collection and PDF generation, removing the need for manual copying.

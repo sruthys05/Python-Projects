@@ -1,0 +1,9 @@
+{% extends "analyzer/base.html" %}
+{% block content %}
+<h2>Ranking: {{ job.title }}</h2>
+<table><tr><th>#</th><th>Candidate</th><th>Score</th><th>Verdict</th></tr>
+{% for a in analyses %}
+<tr><td>{{ forloop.counter }}</td><td><a href="{% url 'result' a.pk %}">{{ a.candidate_name }}</a></td>
+<td>{{ a.score }}%</td><td>{{ a.verdict }}</td></tr>
+{% endfor %}</table>
+{% endblock %}
